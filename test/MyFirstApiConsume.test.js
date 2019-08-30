@@ -51,9 +51,9 @@ describe('First Api Tests', () => {
 
     it('Consume PUT Service', async () => {
         const change = {
-            name: 'John',
+            name: 'Juan',
             age: '32',
-            city: 'Miami'
+            city: 'Cali'
         };
 
 
