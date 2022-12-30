@@ -23,6 +23,6 @@
   "homepage": "https://github.com/Juanddiazm/workshop-api-testing-js#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
